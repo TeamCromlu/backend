@@ -1,0 +1,10 @@
+{
+  "name": "sendmail",
+  "version": "1.0.3",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-mailer": "^0.3.0",
+    "jade": "^1.11.0",
+    "nodemailer": "^1.8.0"
+  }
+}
